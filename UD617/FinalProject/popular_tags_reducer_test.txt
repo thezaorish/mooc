@@ -1,0 +1,11 @@
+cs101	48
+homework	7
+cs387	6
+python	3
+homework1	2
+hw1	2
+board	2
+indexing	2
+bug	2
+code	1
+of	1
