@@ -36,7 +36,7 @@ for line in sys.stdin:
 
             post_length = len(body)
 
-            if node_type == 'question':   # classifier A is used to mark a question node
+            if node_type in ('question', '"question"'):   # classifier A is used to mark a question node
                 print "{0}\t{1}\t{2}".format(post_id, 'A', post_length)
             else:   # classifier B is used to mark an answer node
                 print "{0}\t{1}\t{2}".format(parent_id, 'B', post_length)
