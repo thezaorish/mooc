@@ -40,10 +40,16 @@ for line in sys.stdin:
         hours_with_counts_per_user[hour] = 1
 
 if previous_user_id != None:
+    # creating a list of preferred hours for posting, ordered descending by number of posts in that hour
+    preferred_hours_desc = sorted(hours_with_counts_per_user, key=lambda t: hours_with_counts_per_user[t], reverse=True)
+
     max_count = 0
     for key_hour in preferred_hours_desc:
         hour_count = hours_with_counts_per_user[key_hour]
+
+        # identifying the top hours
         if hour_count >= max_count:
             print "{0}\t{1}".format(previous_user_id, key_hour)
+            max_count = hour_count
         else:
             break

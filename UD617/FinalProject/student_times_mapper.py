@@ -30,5 +30,7 @@ for line in sys.stdin:
         time = re.split(' ', created)[1]
         hour = re.split(':', time)[0]
 
-        print "{0}\t{1}".format(data[AUTHOR_ID_INDEX], int(hour))
+        author_id = data[AUTHOR_ID_INDEX].strip("'").strip('"').strip()
+
+        print "{0}\t{1}".format(author_id, int(hour))
         full_line = ''
