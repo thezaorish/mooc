@@ -29,11 +29,11 @@ for line in sys.stdin:
     if len(data) == NUMBER_OF_COLUMNS:  # the entire post has been read
         node_type = data[NODE_TYPE_INDEX]
 
-        author_id = data[AUTHOR_INDEX]
+        author_id = data[AUTHOR_INDEX].strip("'").strip('"').strip()
         if node_type in ('question', '"question"'):
-            post_id = data[ID_INDEX]
+            post_id = data[ID_INDEX].strip("'").strip('"').strip()
         else:
-            post_id = data[ABS_PARENT_ID_INDEX]
+            post_id = data[ABS_PARENT_ID_INDEX].strip("'").strip('"').strip()
 
         print "{0}\t{1}".format(post_id, author_id)
 
