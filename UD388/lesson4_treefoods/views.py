@@ -49,13 +49,13 @@ def new_user():
     if session.query(User).filter_by(username=username).first() is not None:
         print "existing user"
         user = session.query(User).filter_by(username=username).first()
-        return jsonify({'message': 'user already exists'}), 200  #, {'Location': url_for('get_user', id = user.id, _external = True)}
+        return jsonify({'message': 'user already exists'}), 200
 
     user = User(username=username)
     user.hash_password(password)
     session.add(user)
     session.commit()
-    return jsonify({'username': user.username}), 201  #, {'Location': url_for('get_user', id = user.id, _external = True)}
+    return jsonify({'username': user.username}), 201
 
 
 @app.route('/users/<int:id>')

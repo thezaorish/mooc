@@ -46,7 +46,7 @@ except Exception as err:
     print err.args
     sys.exit()
 else:
-    print "Test 2 PASS: Successfully obtained token! "
+    print "Test 2 PASS: Successfully obtained token!"
 
 # TEST 3: TRY TO ADD PRODUCTS TO DATABASE
 try:
@@ -66,7 +66,38 @@ else:
 
 
 # TEST 4: TRY ACCESSING ENDPOINT WITH AN INVALID TOKEN
+try:
+    h = Http()
+    h.add_credentials('invalidToken', 'blank')
+    url = address + '/products'
+    data = dict(name="lemon", category="fruit", price="$.83")
+    resp, content = h.request(url, 'POST', body=json.dumps(data), headers={"Content-Type": "application/json"})
+    if resp['status'] != '401':
+        raise Exception('Received an unexpected status code of %s' % resp['status'])
+except Exception as err:
+    print "Test 4 FAILED: Could add new products with an invalid token"
+    print err.args
+    sys.exit()
+else:
+    print "Test 4 PASS: Could NOT add new products with an invalid token"
 
-    #TEST 5: TRY TO VIEW ALL PRODUCTS IN DATABASE
 
-    #TEST 6: TRY TO VIEW A SPECIFIC CATEGORY OF PRODUCTS
+# TEST 5: TRY TO VIEW ALL PRODUCTS IN DATABASE
+try:
+    h = Http()
+    h.add_credentials(token, 'blank')
+    url = address + '/products'
+    resp, content = h.request(url, 'GET', headers={"Content-Type": "application/json"})
+    if resp['status'] != '200':
+        raise Exception('Received an unsuccessful status code of %s' % resp['status'])
+    new_content = json.loads(content)
+    if new_content['products'][0]['name'] != 'apple':
+        raise Exception('Error when parsing products')
+except Exception as err:
+    print "Test 5 FAILED: Could not retrieve products"
+    print err.args
+    sys.exit()
+else:
+    print "Test 5 PASS: Successfully retrieved products!"
+
+    # TEST 6: TRY TO VIEW A SPECIFIC CATEGORY OF PRODUCTS
