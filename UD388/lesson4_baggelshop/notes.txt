@@ -1,0 +1,2 @@
+sudo apt-get install python-passlib
+sudo pip install Flask-HTTPAuth (https://github.com/miguelgrinberg/Flask-HTTPAuth)
