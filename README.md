@@ -1,4 +1,4 @@
-udacity
+mooc
 =======
 
-Lessons exercises, homeworks, final projects for my courses @udacity.com
+Lessons exercises, homeworks, final projects for my courses @udacity.com, @coursera.org
