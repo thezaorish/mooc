@@ -1,0 +1,1061 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4a3c2a1a-f470-4baf-8fd0-8d5ab5bc2f92" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/project/target/config-classes/$4d83c70f41f50a603b09$$anonfun$$sbtdef$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/project/target/config-classes/$4d83c70f41f50a603b09$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/project/target/config-classes/$4d83c70f41f50a603b09.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/project/target/config-classes/$5c76141117de45fdbd81$$anonfun$$sbtdef$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/project/target/config-classes/$5c76141117de45fdbd81$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/project/target/config-classes/$5c76141117de45fdbd81.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/project/target/config-classes/$8593e5ddc7048c2c3ee3$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/project/target/config-classes/$8593e5ddc7048c2c3ee3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/project/target/config-classes/$88a118a6ada405c9909e$$anonfun$$sbtdef$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/project/target/config-classes/$88a118a6ada405c9909e$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/project/target/config-classes/$88a118a6ada405c9909e.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/project/target/config-classes/$e739d2b79dd549e4858f$$anonfun$$sbtdef$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/project/target/config-classes/$e739d2b79dd549e4858f$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/project/target/config-classes/$e739d2b79dd549e4858f.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/config-classes/$0490428e9229db2a3b30$$anonfun$$sbtdef$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/config-classes/$0490428e9229db2a3b30$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/config-classes/$0490428e9229db2a3b30.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/config-classes/$29250c60e2b086484467$$anonfun$$sbtdef$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/config-classes/$29250c60e2b086484467$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/config-classes/$29250c60e2b086484467.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/config-classes/$3b6748f51c7e54d44e44$$anonfun$$sbtdef$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/config-classes/$3b6748f51c7e54d44e44$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/config-classes/$3b6748f51c7e54d44e44.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/config-classes/$76a6c1ac2da5c845e9a6$$anonfun$$sbtdef$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/config-classes/$76a6c1ac2da5c845e9a6$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/config-classes/$76a6c1ac2da5c845e9a6.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/config-classes/$7e9ef5f992cd8f335634$$anonfun$$sbtdef$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/config-classes/$7e9ef5f992cd8f335634$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/config-classes/$7e9ef5f992cd8f335634.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/config-classes/$8bc293b14fa08fab530e$$anonfun$$sbtdef$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/config-classes/$8bc293b14fa08fab530e$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/config-classes/$8bc293b14fa08fab530e.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/config-classes/$9bd596d232bf2646fd2d$$anonfun$$sbtdef$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/config-classes/$9bd596d232bf2646fd2d$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/config-classes/$9bd596d232bf2646fd2d.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/config-classes/$bd496ae618303a6a4aa3$$anonfun$$sbtdef$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/config-classes/$bd496ae618303a6a4aa3$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/config-classes/$bd496ae618303a6a4aa3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/config-classes/$da22d015e5ef7b32a47f$$anonfun$$sbtdef$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/config-classes/$da22d015e5ef7b32a47f$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/config-classes/$da22d015e5ef7b32a47f.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/config-classes/$fd553a6fefba199327b0$$anonfun$$sbtdef$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/config-classes/$fd553a6fefba199327b0$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/config-classes/$fd553a6fefba199327b0.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/scala-2.10/sbt-0.13/classes/Assignment$$anonfun$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/scala-2.10/sbt-0.13/classes/Assignment$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/scala-2.10/sbt-0.13/classes/Assignment.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/scala-2.10/sbt-0.13/classes/CommonBuild$class.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/scala-2.10/sbt-0.13/classes/CommonBuild.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/scala-2.10/sbt-0.13/classes/GradingFeedback.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/scala-2.10/sbt-0.13/classes/GradingSummary$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/scala-2.10/sbt-0.13/classes/GradingSummary.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/scala-2.10/sbt-0.13/classes/MapMapString$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/scala-2.10/sbt-0.13/classes/MapMapString.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/scala-2.10/sbt-0.13/classes/RecordingLogger$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/scala-2.10/sbt-0.13/classes/RecordingLogger.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anon$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$10.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$11.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$12.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$13.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$14.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$5.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$6.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$7.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$8.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$9.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$invokeScalaTestInSeparateProcess$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$$anonfun$invokeScalaTestInSeparateProcess$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$GradingSummaryUnpickler1$2$$anon$1$$typecreator1$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$GradingSummaryUnpickler1$2$$anon$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$GradingSummaryUnpickler1$2$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$LimitedStringBuffer.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/scala-2.10/sbt-0.13/classes/Settings$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/scala-2.10/sbt-0.13/classes/Settings.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/scala-2.10/sbt-0.13/classes/StudentBuild$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/scala-2.10/sbt-0.13/classes/StudentBuild.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$1$$anonfun$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$1$$anonfun$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$1$$anonfun$4$$anonfun$apply$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$1$$anonfun$4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$5.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$8$$anonfun$apply$10.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$8$$anonfun$apply$9.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$8.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$prepareJar$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$prepareJar$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$prepareJar$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$prepareJar$4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$root$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$root$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$root$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$root$4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$root$5.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$root$6.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$root$7.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$root$8.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$root$9.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitLocalSetting$1$$anonfun$apply$2$$anonfun$apply$3$$anonfun$apply$4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitLocalSetting$1$$anonfun$apply$2$$anonfun$apply$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitLocalSetting$1$$anonfun$apply$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitLocalSetting$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$6.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$7.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$apply$7.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$apply$8.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$postSubmission$1$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$reportCourseraResponse$1$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6$$anonfun$reportCourseraResponse$1$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitSetting$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/scala-2.10/sbt-0.13/classes/StyleChecker$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/scala-2.10/sbt-0.13/classes/StyleChecker$CustomTextOutput.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/scala-2.10/sbt-0.13/classes/StyleChecker.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/streams/$global/$global/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/input_dsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/streams/$global/ivySbt/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/streams/$global/projectDescriptors/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/streams/compile/$global/$global/discoveredMainClasses/data" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/streams/compile/compile/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/streams/compile/copyResources/$global/streams/copy-resources" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../UD388/.idea/UD388.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/src/main/scala/week2/fixed_point.sc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/src/main/scala/week2/product.sc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/src/main/scala/week2/rationals.sc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/src/main/scala/week2/tail_recursion_sum.sc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/.idea/week2.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/.idea/libraries/SBT__junit_junit_4_10_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/.idea/libraries/SBT__org_hamcrest_hamcrest_core_1_1_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/.idea/libraries/SBT__org_scala_lang_modules_scala_parser_combinators_2_11_1_0_4_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/.idea/libraries/SBT__org_scala_lang_modules_scala_xml_2_11_1_0_2_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/.idea/libraries/SBT__org_scala_lang_scala_library_2_11_7_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/.idea/libraries/SBT__org_scala_lang_scala_reflect_2_11_2_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/.idea/libraries/SBT__org_scalatest_scalatest_2_11_2_2_4_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/.idea/modules/root-build.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/.idea/modules/root.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/.idea/sbt.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/.idea/scala_compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/assignment.sbt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/build.sbt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/CommonBuild.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/GradingFeedback.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/ScalaTestRunner.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/Settings.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/StudentBuild.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/StudentBuildLike.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/StyleChecker.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/build.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/buildSettings.sbt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/plugins.sbt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/project/target/config-classes/$4d83c70f41f50a603b09.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/project/target/config-classes/$5c76141117de45fdbd81.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/project/target/config-classes/$8593e5ddc7048c2c3ee3.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/project/target/config-classes/$88a118a6ada405c9909e.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/project/target/config-classes/$e739d2b79dd549e4858f.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/config-classes/$0490428e9229db2a3b30.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/config-classes/$29250c60e2b086484467.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/config-classes/$3b6748f51c7e54d44e44.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/config-classes/$76a6c1ac2da5c845e9a6.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/config-classes/$7e9ef5f992cd8f335634.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/config-classes/$8bc293b14fa08fab530e.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/config-classes/$9bd596d232bf2646fd2d.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/config-classes/$bd496ae618303a6a4aa3.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/config-classes/$da22d015e5ef7b32a47f.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/config-classes/$fd553a6fefba199327b0.cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/resolution-cache/default/funsets-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/resolution-cache/default/funsets-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/resolution-cache/reports/default-funsets-build-compile-internal.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/resolution-cache/reports/default-funsets-build-compile.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/resolution-cache/reports/default-funsets-build-docs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/resolution-cache/reports/default-funsets-build-optional.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/resolution-cache/reports/default-funsets-build-plugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/resolution-cache/reports/default-funsets-build-pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/resolution-cache/reports/default-funsets-build-provided.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/resolution-cache/reports/default-funsets-build-runtime-internal.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/resolution-cache/reports/default-funsets-build-runtime.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/resolution-cache/reports/default-funsets-build-scala-tool.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/resolution-cache/reports/default-funsets-build-sources.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/resolution-cache/reports/default-funsets-build-test-internal.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/resolution-cache/reports/default-funsets-build-test.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/resolution-cache/reports/ivy-report.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/resolution-cache/reports/ivy-report.xsl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/scala-2.10/sbt-0.13/classes/sbt/sbt.builds" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/scala-2.10/sbt-0.13/resource_managed/main/sbt/sbt.builds" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/streams/$global/ivyConfiguration/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/streams/$global/update/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/streams/compile/compileIncremental/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/streams/compile/compileIncremental/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/streams/compile/copyResources/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/streams/compile/dependencyClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/streams/compile/exportedProducts/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.10" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/streams/compile/internalDependencyClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/streams/compile/managedClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/streams/compile/unmanagedClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/streams/compile/unmanagedJars/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/streams/runtime/dependencyClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/streams/runtime/exportedProducts/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/streams/runtime/fullClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/streams/runtime/managedClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/streams/runtime/unmanagedClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/project/target/streams/runtime/unmanagedJars/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/src/main/scala/common/package.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/src/main/scala/funsets/FunSets.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/src/main/scala/funsets/Main.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../progfun1/week2/funsets/src/test/scala/funsets/FunSetSuite.scala" />
+    </list>
+    <list id="038ac0a4-0b3f-44e0-9656-f3e2eb29388c" name="other" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../UD388/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../UD388/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../UD388/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../UD388/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../UD388/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../UD388/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../UD388/lesson2-apimashup/findARestaurant.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../UD388/lesson2-apimashup/geocode.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../UD388/lesson3-flaskendpoints/endpoints.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../UD388/lesson3-flaskendpoints/endpoints_tester.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../UD388/lesson3_db/endpoints_tester3.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../UD388/lesson3_db/endpointsproject3.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../UD388/lesson3_db/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../UD388/lesson3_mashup/findARestaurant.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../UD388/lesson3_mashup/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../UD388/lesson3_mashup/tester.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../UD388/lesson3_mashup/views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../UD388/lesson4_oauth20/client_secrets.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../UD388/lesson4_oauth20/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../UD388/lesson4_oauth20/notes.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../UD388/lesson4_oauth20/templates/client_ouath.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../UD388/lesson4_oauth20/views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../UD388/lesson4_protectingresource/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../UD388/lesson4_protectingresource/views.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../UD032/.idea/UD032.iml" afterPath="$PROJECT_DIR$/../UD032/.idea/UD032.iml" />
+    </list>
+    <ignored path="UD867.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="UD867" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/1.09-Exercise-ConfigureTaskDependencies/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.63764703">
+              <caret line="54" column="19" selection-start-line="54" selection-start-column="19" selection-end-line="54" selection-end-column="19" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1.08-Demo-TaskDependencies/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="24" column="26" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="26" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/../../discountexample_victor_balanica" value="1457790156988" />
+        <entry key="$PROJECT_DIR$/../../discounting" value="1457791237408" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/1.01-Exercise-RunYourFirstTask/build.gradle" />
+        <option value="$PROJECT_DIR$/1.07-Exercise-ConfigureATask/build.gradle" />
+        <option value="$PROJECT_DIR$/1.09-Exercise-ConfigureTaskDependencies/build.gradle" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="49" />
+    <option name="y" value="24" />
+    <option name="width" value="1871" />
+    <option name="height" value="969" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UD867" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UD867" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UD867" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1.09-Exercise-ConfigureTaskDependencies" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UD867" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UD867" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1.08-Demo-TaskDependencies" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UD867" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UD867" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1.07-Exercise-ConfigureATask" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UD867" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UD867" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1.03-Demo-GroovyFundamentals" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UD867" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UD867" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1.02-Exercise-InstallGradle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UD867" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UD867" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1.01-Exercise-RunYourFirstTask" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UD867" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UD867" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="BatchConfigurationType" factoryName="Batch">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="UD867" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/../../example" value="1459516374000" />
+        <entry key="$PROJECT_DIR$/../../recfun" value="1462369130000" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a3c2a1a-f470-4baf-8fd0-8d5ab5bc2f92" name="Default" comment="" />
+      <changelist id="038ac0a4-0b3f-44e0-9656-f3e2eb29388c" name="other" comment="" />
+      <created>1464649878414</created>
+      <option name="number" value="Default" />
+      <updated>1464649878414</updated>
+      <workItem from="1464649879695" duration="8000" />
+      <workItem from="1464649895846" duration="1274000" />
+      <workItem from="1465160856396" duration="2699000" />
+      <workItem from="1465250353863" duration="54000" />
+    </task>
+    <task id="LOCAL-00001" summary="UD867: import of the 1.01 exercise">
+      <created>1464650070413</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1464650070413</updated>
+    </task>
+    <task id="LOCAL-00002" summary="UD867: simple solution for the 1.01 exercise">
+      <created>1464650346333</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1464650346333</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4035000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="49" y="24" width="1871" height="969" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="UML Diagrams" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.63139933" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37087598" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24986331" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Graphical Navigator" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="UD867: import of the 1.01 exercise" />
+    <MESSAGE value="UD867: simple solution for the 1.01 exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="UD867: simple solution for the 1.01 exercise" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/1.09-Exercise-ConfigureTaskDependencies/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.08-Demo-TaskDependencies/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="26" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="26" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.01-Exercise-RunYourFirstTask/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.02-Exercise-InstallGradle/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.01-Exercise-RunYourFirstTask/solution.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4225352">
+          <caret line="20" column="56" selection-start-line="20" selection-start-column="46" selection-end-line="20" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.02-Exercise-InstallGradle/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="48" column="36" selection-start-line="48" selection-start-column="36" selection-end-line="48" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.07-Exercise-ConfigureATask/solution.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.07-Exercise-ConfigureATask/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.43896714">
+          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.03-Demo-GroovyFundamentals/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.2535212">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.01-Exercise-RunYourFirstTask/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.31690142">
+          <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.08-Demo-TaskDependencies/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="26" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="26" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.09-Exercise-ConfigureTaskDependencies/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.63764703">
+          <caret line="54" column="19" selection-start-line="54" selection-start-column="19" selection-end-line="54" selection-end-column="19" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
