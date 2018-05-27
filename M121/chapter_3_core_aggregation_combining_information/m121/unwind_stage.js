@@ -27,6 +27,8 @@ db.movies.aggregate([
 // unfortunately we got too many results per year back. Rather than peform some
 // other complex grouping and matching, we just append a simple group and sort
 // stage, taking advantage of the fact the documents are in the order we want
+
+// one document per year, with the highest rated genre for that year
 db.movies.aggregate([
   {
     "$match": {
