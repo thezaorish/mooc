@@ -13,7 +13,7 @@ db.movies.aggregate([
   {
     "$bucket": {
       "groupBy": "$imdb.rating",
-      "boundaries:" [0, 5, 8, Infinity],
+      "boundaries": [0, 5, 8, Infinity],
       "default": "not rated"
     }
   }
@@ -33,8 +33,7 @@ db.movies.aggregate([
   }
 ])
 
-// to get the count per bucket after we have specified an output, we have to
-// implicitly calculate it
+// to get the count per bucket after we have specified an output, we have to implicitly calculate it
 db.movies.aggregate([
   {
     "$bucket": {
