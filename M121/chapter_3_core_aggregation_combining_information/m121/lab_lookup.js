@@ -40,3 +40,5 @@ pipeline = [
     grouping,
     sorting
 ]
+
+db.routes.aggregate(pipeline).pretty()
